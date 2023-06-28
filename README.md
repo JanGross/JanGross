@@ -6,8 +6,8 @@
 </center>
 <h2 align="center">Contact</h2>
 <p align="center"  width="100%">   
-  <a align="center" href="https://mnz.gg/discord"><img align="center" src="https://github.com/JanGross/JanGross/assets/13641301/224930fd-0a1d-42b9-8061-c179184c4ecb" ></a>
-  <a align="center" href="mailto:contact@minzkraut.com"><img align="center" src="https://github.com/JanGross/JanGross/assets/13641301/864f431a-7bbe-468c-a630-e129f7b2073e" ></a>  
+  <a align="center" href="https://mnz.gg/discord"><img align="center" src="icons8-discord-bubble-96.png" ></a>
+  <a align="center" href="mailto:contact@minzkraut.com"><img align="center" src="icons8-email-96.png" ></a>  
 </p>
 
 
