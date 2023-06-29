@@ -22,7 +22,9 @@
 | Reddit|[/u/Minzkraut](https://www.reddit.com/user/Minzkraut) |
 | Steam|[Minzkraut](https://steamcommunity.com/id/Minzkraut/) |
 | Anilist|[Minzkraut](https://anilist.co/user/Minzkraut/) |
+| MFC |[https://mnz.gg/mfc](https://mnz.gg/mfc) |
 | Spotify|[Minzkraut](https://open.spotify.com/user/11156762274) |
+| Discogs |[https://mnz.gg/cogs](https://mnz.gg/cogs) |
 </center>
 
 </details>
